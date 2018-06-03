@@ -1,3 +1,1 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/giana/pen/GJMBEv.
-
- Vanilla JS. Sizing is iffy on smaller devices.
+Javascript Calculator is a web app capable of doing basic arithematic operations. The are certain animations used wherever there is a need for the use of any operator and for basic numbers. All the animations are carried out with HTML canvas and Jquery. 
