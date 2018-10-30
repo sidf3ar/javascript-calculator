@@ -2,4 +2,4 @@ Javascript Calculator is a web app capable of doing basic arithematic operations
 
 <Strong>Link to android APK</Strong> https://drive.google.com/open?id=1QEWA1S1g9IJlSpQZ76rsgtbBGdQAACxL
 
-<strong>Live Here --> https://sidf3ar.github.io/javascript-calculator/ </strong>
+<Strong>Live Here --> https://sidf3ar.github.io/javascript-calculator/ </Strong>
